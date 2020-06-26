@@ -1,4 +1,4 @@
-# Bidirectional Stereo Matching Real-time Network with Double Cost Volumes
+# Bidirectional Stereo Matching Network with Double Cost Volumes
 
 Copyright (C) 2020, Xiaogang Jia
 
