@@ -4,7 +4,7 @@ Copyright (C) 2020, Xiaogang Jia
 
 This distribution provides an implementation, along with trained models, for the method described in our paper:
 
-Xiaogang Jia, "**[Bidirectional Stereo Matching Real-time Network with Double Cost Volumes]".
+Xiaogang Jia, Bidirectional Stereo Matching Network with Double Cost Volumes.
 
 If you find the code useful for your research, we request that you cite the above paper. Please contact jiaxiaogang@nudt.edu.cn with any questions.
 
