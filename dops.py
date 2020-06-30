@@ -1,4 +1,4 @@
-#--Xiaogang Jia <jiaxiaogang@nudt.edu.cn>
+
 import tensorflow as tf
 import numpy as np
 
