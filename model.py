@@ -1,4 +1,3 @@
-#--Xiaogang Jia <jiaxiaogang@nudt.edu.cn>
 import tensorflow as tf
 import numpy as np
 from tensorflow.python.ops import gen_nn_ops
