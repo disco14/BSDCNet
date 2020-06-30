@@ -1,4 +1,3 @@
-#--Xiaogang Jia <jiaxiaogang@nudt.edu.cn>
 import re
 import os
 import time
