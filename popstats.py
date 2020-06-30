@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#--Xiaogang Jia <jiaxiaogang@nudt.edu.cn>
 import tensorflow as tf
 import numpy as np
 import utils as ut
